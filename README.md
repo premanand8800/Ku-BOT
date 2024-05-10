@@ -2,13 +2,13 @@ Software And Tools Requirements
 
 [Github Account](https://github.com/)
 
-Render
+[Render](https://dashboard.render.com/)
 
-Streamlit
+[Streamlit](https://streamlit.io/)
 
-VSCodeIDE
+[VSCodeIDE](https://visualstudio.microsoft.com/)
 
-GitCLI
+[GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 Create a new environment
 
